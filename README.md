@@ -40,6 +40,6 @@ requirements.txt
 | 서민정 | Feature neutralization 초기 실험, PCA(100) + lag 실험, TabNet · Ridge · ElasticNet 베이스 모델, Ridge · ElasticNet 전체 데이터 재학습, 앙상블 조합 비교, validation diagnostics |
 | 김시현 | Lag feature engineering, PCA(500) + lag1 + lag2 조합 실험(최종 채택) |
 
-## 이후 개발
+## 참고
 
-컨퍼런스 이후의 라이브 운영(자동 제출, v6.0 전환, 추가 모델 실험 등)은 이 레포 범위에 포함되지 않습니다.
+이 레포에는 컨퍼런스 제출 시점(2026년 7월 31일)까지의 코드와 결과물이 정리되어 있습니다.
